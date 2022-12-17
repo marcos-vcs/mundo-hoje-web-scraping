@@ -28,8 +28,9 @@ public class IbgeScrapingService {
 
             StringBuilder text = new StringBuilder();
             for(Element paragraph: element.getElementsByClass("texto--single ").get(0).getElementsByTag("p")){
+                text.append("<p>");
                 text.append(paragraph.text());
-                text.append("\n");
+                text.append("</p>");
             }
 
             return new Article(title, subtitle, metadata, text.toString());
