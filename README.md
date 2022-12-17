@@ -1,7 +1,7 @@
 
 ## mundo-hoje WEB scraping
 
-#### To access the deployment **[`CLICK HERE`](https://mundo-hoje-web-scraping.up.railway.app/)**
+#### To access Swagger API documentation **[`CLICK HERE`](https://mundo-hoje-web-scraping.up.railway.app/swagger-ui.html)**
 
 ---
 ### Technologies used in development
