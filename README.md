@@ -1,5 +1,5 @@
 
-## mundo-hoje WEB scraping
+## mundo-hoje WEB scraping API
 
 #### To access Swagger API documentation **[`CLICK HERE`](https://mundo-hoje-web-scraping.up.railway.app/swagger-ui.html)**
 
